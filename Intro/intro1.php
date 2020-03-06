@@ -3,7 +3,7 @@
    <title> This is a title </title>
     <style>
        #mySpan {
-           color: red;
+           color: orangered;
            font-size: 37px;
        }
     </style>
