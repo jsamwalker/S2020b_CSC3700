@@ -4,7 +4,7 @@
     <style>
        #mySpan {
            color: red;
-           font-size: 36px;
+           font-size: 35px;
        }
     </style>
 </head>
